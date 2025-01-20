@@ -9,8 +9,8 @@ An effective support page should serve as a comprehensive knowledge hub, housing
 
 A good support page has three main goals:
 
--Provide an overview of your business and what you do,
+- Provide an overview of your business and what you do,
 
--Address common questions from customers,
+- Address common questions from customers,
 
--Solve problems that may come up during the customer journey.
+- Solve problems that may come up during the customer journey.
