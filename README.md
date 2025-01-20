@@ -1,5 +1,5 @@
 # Service-Support building page
-Service Support
+## Service Support
 
 Having a support section on our website is not just a good practice; it's an established necessity. In the digital age, where customers seek instant solutions and information, a well-structured support section plays a pivotal role.
 
@@ -9,8 +9,8 @@ An effective support page should serve as a comprehensive knowledge hub, housing
 
 A good support page has three main goals:
 
-Provide an overview of your business and what you do,
+-Provide an overview of your business and what you do,
 
-Address common questions from customers,
+-Address common questions from customers,
 
-Solve problems that may come up during the customer journey.
+-Solve problems that may come up during the customer journey.
